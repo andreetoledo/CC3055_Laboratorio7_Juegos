@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Suelo
+  - enemigo
+  - pawah
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - suelo
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: fondo
+    uniqueID: 3126452201
+    locked: 0
+  - name: plataforma
+    uniqueID: 3784342355
+    locked: 0
+  - name: Kirby mamado
+    uniqueID: 1148105239
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: enemigo
+    uniqueID: 91228813
+    locked: 0
+  - name: espada
+    uniqueID: 630013635
+    locked: 0
